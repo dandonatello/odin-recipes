@@ -1,6 +1,7 @@
 body {
     background-color: gold;
     font-family: Helvetica, Arial, sans-serif;
+    color: rgb(70, 177, 167);
 }
 
 a:link {
@@ -12,16 +13,16 @@ a:visited {
     color: rgb(70, 177, 167);
     text-decoration: none;
   }
-  a:hover {
+a:hover {
     color: orchid;
     text-decoration: none;
   }
-h1 {color: rgb(70, 177, 167);
+h1 {
     text-align: center;
     margin: 80px 0 80px 0;
 }
  
-ul {color: rgb(70, 177, 167);
+ul {
     text-align: center;
     font-size: 20px;
     font-style: em;
